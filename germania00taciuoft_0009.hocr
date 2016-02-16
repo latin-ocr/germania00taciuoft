@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./germania00taciuoft_0009.png"; bbox 0 0 1622 2500; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1401 483 1409 1630">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1401 483 1409 1630">
+     <span class='ocr_line' id='line_1_1' title="bbox 1401 483 1409 1630; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1401 483 1409 1630; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 800 1904 874 1928">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 800 1904 874 1928">
+     <span class='ocr_line' id='line_1_2' title="bbox 800 1904 874 1928; baseline -0.014 -3"><span class='ocrx_word' id='word_1_2' title='bbox 800 1904 874 1928; x_wconf 77' lang='lat' dir='ltr'>Osi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 877 1919 950 1978">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 877 1919 950 1978">
+     <span class='ocr_line' id='line_1_3' title="bbox 886 1919 935 1946; baseline 0.02 -1"><span class='ocrx_word' id='word_1_3' title='bbox 886 1936 906 1946; x_wconf 62' lang='grc' dir='ltr'>νὴ</span> <span class='ocrx_word' id='word_1_4' title='bbox 910 1919 935 1946; x_wconf 45' lang='grc' dir='ltr'>Αἱ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 877 1942 950 1978; baseline 0 -9"><span class='ocrx_word' id='word_1_5' title='bbox 877 1942 887 1969; x_wconf 57' lang='grc' dir='ltr'>κ’</span> <span class='ocrx_word' id='word_1_6' title='bbox 907 1943 911 1948; x_wconf 84' lang='grc'>’</span> <span class='ocrx_word' id='word_1_7' title='bbox 919 1946 950 1978; x_wconf 60' lang='lat'>,1³⁴3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 114 1428 2230">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 114 1428 2230">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 114 1428 2230; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 114 1428 2230; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 9 2243 292 2352">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 9 2243 292 2352">
+     <span class='ocr_line' id='line_1_6' title="bbox 10 2243 292 2276; baseline 0.011 -3"><span class='ocrx_word' id='word_1_9' title='bbox 10 2243 162 2276; x_wconf 78' lang='lat' dir='ltr'>rRA&#39;rE</span> <span class='ocrx_word' id='word_1_10' title='bbox 193 2245 292 2276; x_wconf 81' lang='lat' dir='ltr'>THE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 9 2313 292 2352; baseline 0.018 -5"><span class='ocrx_word' id='word_1_11' title='bbox 9 2313 33 2347; x_wconf 71' lang='lat' dir='ltr'>F·</span> <span class='ocrx_word' id='word_1_12' title='bbox 63 2313 292 2352; x_wconf 79' lang='lat' dir='ltr'>TACITUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 1801 2 2439">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 1801 2 2439">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 1801 2 2439; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 1801 2 2439; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
